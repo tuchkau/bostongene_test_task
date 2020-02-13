@@ -1,0 +1,2 @@
+For model training run 'python3 main.py'. It takes about one and a half hours to train it from scratch on my machine.
+Requirements are specified in requirements.txt
